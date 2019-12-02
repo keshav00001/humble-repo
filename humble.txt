@@ -1,2 +1,4 @@
 Now we will add the humble.txt file to the staging environment by using Git add 
 before going ahead to the staging and see the change using Git status
+
+you r intelligent
